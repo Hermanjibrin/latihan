@@ -1,2 +1,2 @@
 #latihan
-latihan
+LATIHAN
