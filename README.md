@@ -1,4 +1,4 @@
-gambar
+
 logo-stmik-lombok.png
 
 <html>
